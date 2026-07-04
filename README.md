@@ -103,12 +103,6 @@ npx @modelcontextprotocol/inspector http://localhost:3001/mcp
 npx @modelcontextprotocol/inspector https://your-project.leanmcp.app/mcp
 ```
 
-## Support
-
--  [Documentation](https://docs.leanmcp.com)
--  [Discord Community](https://discord.com/invite/DsRcA3GwPy)
--  [Report Issues](https://github.com/leanmcp/leanmcp-sdk/issues)
-
 ## License
 
 MIT
